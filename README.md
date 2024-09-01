@@ -39,7 +39,7 @@ jupyter notebook logo_GAN.ipynb
 
 - `logo_GAN.ipynb`: Main Jupyter notebook containing the GAN implementation
 - `README.md`: This file, providing an overview of the project
-- `dataset/`: Directory for storing the logo dataset <a href="https://www.mediafire.com/file/8tofxz1hie67m9q/dataset.rar/file">dataset</a> .
+- `dataset/`: Directory for storing the logo dataset.
 - `generated/`: Directory where generated logo samples are saved
 
 ## Usage
