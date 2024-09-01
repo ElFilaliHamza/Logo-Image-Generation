@@ -27,15 +27,9 @@ Logo-Image-Generation is a project that implements a Generative Adversarial Netw
 git clone https://github.com/ElFilaliHamza/Logo-Image-Generation.git
 ```
 
-2. Install the required dependencies:
+2. Download the dataset and place it in the `./dataset` directory.
 
-```
-pip install -r requirements.txt
-```
-
-3. Download the dataset and place it in the `./dataset` directory.
-
-4. Run the Jupyter notebook:
+3. Run the Jupyter notebook:
 
 ```
 jupyter notebook logo_GAN.ipynb
@@ -61,11 +55,11 @@ Contributions to Logo-Image-Generation are welcome! Please feel free to submit a
 
 ## License
 
-[Insert your chosen license here]
+MIT
 
 ## Contact
 
-EL FILALI Hamza - [Your Email]
+EL FILALI Hamza 
 
 Project Link: https://github.com/ElFilaliHamza/Logo-Image-Generation
 
