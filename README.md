@@ -27,7 +27,7 @@ Logo-Image-Generation is a project that implements a Generative Adversarial Netw
 git clone https://github.com/ElFilaliHamza/Logo-Image-Generation.git
 ```
 
-2. Download the dataset and place it in the `./dataset` directory.
+2. Download the <a href="https://www.mediafire.com/file/8tofxz1hie67m9q/dataset.rar/file">dataset</a> and place it in the `./dataset` directory  .
 
 3. Run the Jupyter notebook:
 
@@ -39,7 +39,7 @@ jupyter notebook logo_GAN.ipynb
 
 - `logo_GAN.ipynb`: Main Jupyter notebook containing the GAN implementation
 - `README.md`: This file, providing an overview of the project
-- `dataset/`: Directory for storing the logo dataset
+- `dataset/`: Directory for storing the logo dataset <a href="https://www.mediafire.com/file/8tofxz1hie67m9q/dataset.rar/file">dataset</a> .
 - `generated/`: Directory where generated logo samples are saved
 
 ## Usage
