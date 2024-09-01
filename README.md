@@ -63,7 +63,3 @@ EL FILALI Hamza
 
 Project Link: https://github.com/ElFilaliHamza/Logo-Image-Generation
 
-## Acknowledgements
-
-- [Dataset source link]
-- [Any other acknowledgements or resources used]
